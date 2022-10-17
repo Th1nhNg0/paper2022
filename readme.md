@@ -2,8 +2,6 @@
 
 [How to teamwork?](workflow.md)
 
-Lam lai paper, code lai bang pytorch.
-
 The paper name should be: "A Deep Learning Approach to Plant Classification in Vietnam"
 
 **NEED:** Workflow research 1 cach khoa hoc. Reference + xem lai tai lieu 1 cach nhanh chong.
