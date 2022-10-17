@@ -1,3 +1,8 @@
+# Nên code trong file .py hay notebook?
+
+Recommended code `.py` vì có thể đem lên server chạy + reuseable code
+
+
 # What lib should use?
 
 Pytorch, PyTorch Lightning
