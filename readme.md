@@ -41,6 +41,8 @@ The paper name should be: "A Deep Learning Approach to Plant Classification in V
 
 data:
 
+- https://www.gbif.org/ (must have)
+
 - http://www.vncreatures.net/tracuu.php
 
 - https://www.inaturalist.org/
